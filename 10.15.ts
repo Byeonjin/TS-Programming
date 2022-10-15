@@ -49,3 +49,5 @@ const tup: [boolean, number, string] = [true, 1, "string"] //튜플
  */
 
 // 막간의 vs code short cut! shift + option + a => 블럭 주석
+
+// (4) 제너릭 타입
